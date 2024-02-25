@@ -1,7 +1,8 @@
-///ejevhbfvh
-var num = 'number' 
-var a = 0
-a =  3 + 3
+
+var num = 'number';
+var a = 0;
+a =  3 + 3;
+console.log(`num = ${num}  a = ${a}`);
 
 /*null + 3
 
